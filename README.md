@@ -2,6 +2,19 @@
 
 Este é um projeto de um teste de página de destino (landing page) para a Coca-Cola, criado como um exemplo de design e desenvolvimento web.
 
+## Demonstração
+
+![Demonstração da Landing Page](https://github.com/caioreis29974/LandingPage-CocaCola/assets/example.jfif)
+
+Esta é uma pré-visualização da página que foi criada. A interface é projetada para ser visualmente atraente e fácil de navegar, permitindo que os usuários descubram rapidamente as promoções e produtos.
+
+### Recursos da Página:
+- Navegação intuitiva
+- Design responsivo
+- Animações de scroll
+
+Explore o projeto e veja como ele funciona na prática!
+
 ## Tecnologias Utilizadas
 
 - HTML
