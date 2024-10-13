@@ -4,7 +4,7 @@ Este é um projeto de um teste de página de destino (landing page) para a Coca-
 
 ## Demonstração
 
-![Demonstração da Landing Page](https://github.com/caioreis29974/LandingPage-CocaCola/assets/example.jfif)
+![Demonstração da Landing Page](assets/example.jfif)
 
 Esta é uma pré-visualização da página que foi criada. A interface é projetada para ser visualmente atraente e fácil de navegar, permitindo que os usuários descubram rapidamente as promoções e produtos.
 
